@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VibrationReading</string>
+    <string name="settings">设置</string>
+    <string name="ok">确认</string>
+    <string name="title">震动触感阅读</string>
+    <string name="title2">设置</string>
+    <string name="set1">“.”震动时间(ms)</string>
+    <string name="set2">“—”震动时间(ms)</string>
+    <string name="set3">震动间隔时间(ms)</string>
+</resources>
